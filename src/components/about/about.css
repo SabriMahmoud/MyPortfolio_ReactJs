@@ -23,7 +23,6 @@
     border-radius:2rem;
     overflow:hidden;
     transform:rotate(10deg);
-    width:max-content;
     transition: var(--transition);
     
     
