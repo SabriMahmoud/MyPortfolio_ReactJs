@@ -37,10 +37,10 @@ header{
               
 .me{
     background:linear-gradient(var(--color-primary),transparent);
-    width: 28rem;
-    height: 50rem;
+    width: 22rem;
+    height: 30rem;
     position: absolute;
-    left: calc(40%-11rem);
+    left: calc(50%-11rem);
     margin-top: 4rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
