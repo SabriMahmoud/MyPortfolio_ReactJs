@@ -38,7 +38,7 @@ function Testimonials() {
           <div className="client__avatar">
             <img src={Avatar1} alt=""/>
           </div>
-          <h5 className='client__name'>Takoua Abdellatif</h5>
+          <h5 className='client__name'>Sabri</h5>
             <small className='client__review'>
                 Recommandation .......................
             </small>
@@ -48,7 +48,7 @@ function Testimonials() {
           <div className="client__avatar">
             <img src={Avatar2} alt=""/>
           </div>
-          <h5 className='client__name'>Takoua Abdellatif</h5>
+          <h5 className='client__name'>Sab</h5>
             <small className='client__review'>
                 Recommandation .......................
             </small>
@@ -58,7 +58,7 @@ function Testimonials() {
           <div className="client__avatar">
             <img src={Avatar3} alt=""/>
           </div>
-          <h5 className='client__name'>Takoua Abdellatif</h5>
+          <h5 className='client__name'>Sab</h5>
             <small className='client__review'>
                 Recommandation .......................
             </small>
@@ -68,7 +68,7 @@ function Testimonials() {
           <div className="client__avatar">
             <img src={Avatar4} alt=""/>
           </div>
-          <h5 className='client__name'>Takoua Abdellatif</h5>
+          <h5 className='client__name'>Sab</h5>
             <small className='client__review'>
                 Recommandation .......................
             </small>
