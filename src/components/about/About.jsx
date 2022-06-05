@@ -33,7 +33,7 @@ function About() {
               </article>
             </div>
             <p>
-              Speak about yourself
+            Currently an Engineering Student in the second year of Applied Computer Science at the National  Engineering School of Sousse devoting my time to the research and development of Data Science projects, I work alternately in Big Data and Machine Learning and I am interested in Artificial Intelligence and robotic systems.
             </p>
             <a href='#contact' className='btn btn-primary'>Contact Me</a>
           </div>        

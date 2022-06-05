@@ -14,6 +14,9 @@ footer a{
   font-weight:500;
   margin-bottom:2rem;
   display:block;
+  width: 25%;
+  transform: translateX(155%);
+  
 }
 
 .premalinks {
