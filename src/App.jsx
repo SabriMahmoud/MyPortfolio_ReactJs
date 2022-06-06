@@ -10,11 +10,11 @@ import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
 import Client from './components/client_projects/client'
 
+import * as Sentry from '@sentry/react' ;
 
 
 
-
-const App = () => {
+function App (){
   return (
     <>
     <Header/>
@@ -27,9 +27,10 @@ const App = () => {
     <Testimonials/>
     <Contact/>
     <Footer/>
+
     </>
 
   )
 }
 
-export default App
+export default Sentry.withProfiler(App)
